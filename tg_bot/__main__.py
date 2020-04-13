@@ -22,7 +22,9 @@ hoi {}, my name is {}!
 
 im a group manager bot created by  [Stella](tg://user?id={}).
 
-For more commands click /help more
+For more commands click /help 
+
+Subscribe Our Channel [HotStuffs](t.me/hotstuffz)
 
 """
 
